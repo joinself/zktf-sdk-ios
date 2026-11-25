@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZktfSDK",
-            url: "https://download.joinself.com/zktf-sdk-ios/ZktfSDK-0.1.0-rc.61.xcframework.zip",
-            checksum: "1ed637ba72d3091693def08268210ee0fa42a95f785c171990e6efc46436a399"
+            url: "https://download.joinself.com/zktf-sdk-ios/ZktfSDK-0.1.0-rc.62.xcframework.zip",
+            checksum: "0ca9a61249ef4d452fb1a8bae4b2ccbb011b0ac9c8bce5caebf20f8a51927aef"
         ),
     ]
 )
